@@ -2,8 +2,7 @@
 
 The objective is to configure a call manager for users to make internal calls in a SOHO environment. Users can use Cisco IP Phones (SCCP) or third party SIP Phones
 
-Router Cisco 3725 Integrated Services Router  
-IOS image c3725-adventerprisek9-mz.124-15.T14.bin  
+The router used as CME is a Cisco 3725 Integrated Services Router running IOS image c3725-adventerprisek9-mz.124-15.T14.bin  
 
 ## Topology view  
 
